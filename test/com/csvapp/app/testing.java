@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.iqera.app;
+package com.csvapp.app;
 
 /**
  * @author maubeeluck

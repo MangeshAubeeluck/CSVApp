@@ -1,4 +1,4 @@
-package com.iqera.app;
+package com.csvapp.app;
 
 import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertFalse;
